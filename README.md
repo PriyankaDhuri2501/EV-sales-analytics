@@ -7,7 +7,7 @@ This project focuses on delivering **data-driven insights** through interactive 
 
 ## 📊 Dashboard Preview
 
-![EV Sales & Performance Analytics Dashboard](assets/ev-sales-dashboard.png)
+![EV Sales & Performance Analytics Dashboard](ev-sales-dashboard.png)
 
 ---
 
